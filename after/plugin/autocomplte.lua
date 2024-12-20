@@ -1,0 +1,7 @@
+-- If you want insert `(` after select function or method item
+-- local cmp_autopairs = require('nvim-autopairs')
+-- local cmp = require('cmp')
+-- cmp.event:on(
+--   'confirm_done',
+--   cmp_autopairs.cmp.cmp.on_confirm_done()
+-- )
